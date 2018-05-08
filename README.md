@@ -1,3 +1,6 @@
+# DEPRECATED
+This repository is deprecated and no longer maintained as on May 8th, 2018. Please use [`pantheon-systems/terminus-site-clone-pljugin`](https://github.com/pantheon-systems/terminus-site-clone-plugin)
+
 # Terminus Site Clone
 Site Clone - A [Terminus](http://github.com/pantheon-systems/terminus) plugin that adds the `site:clone` command to facilitate cloning sites on [Pantheon](https://pantheon.io/).
 
